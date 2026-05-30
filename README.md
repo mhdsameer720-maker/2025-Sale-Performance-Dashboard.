@@ -1,4 +1,4 @@
-# 2025 Corporate Sales Performance & Profitability Suite
+# 2025 Retail Stores Sales Performance & Profitability Suite
 
 ## 📊 Business Case & Project Overview
 In modern corporate reporting, executive leadership often gets bogged down by localized customer noise when trying to assess overall organizational health. This project solves that problem by focusing on aggregate structural metrics.
