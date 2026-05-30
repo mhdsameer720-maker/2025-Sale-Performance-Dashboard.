@@ -11,7 +11,7 @@ This repository features an enterprise-grade, multi-page **Sales Performance Das
 * **Dual-Metric Governance:** Equates top-line revenue tracking with bottom-line profitability margins to monitor structural cost control across the fiscal year.
 
 ### 🔗 Live Interactive Report
-👉 **[Click Here to View the Live Interactive Power BI Report](https://app.powerbi.com/links/lXMNahHJHP?ctid=9163dbbb-7a84-4087-a7ef-8835e6717f11&pbi_source=linkShare)** *(Note: If you have published your report to Power BI Service, replace the placeholder link inside the brackets with your actual 'Publish to Web' or sharing URL).*
+👉 **[Click Here to View the Live Interactive Power BI Report](https://app.powerbi.com/links/lXMNahHJHP?ctid=9163dbbb-7a84-4087-a7ef-8835e6717f11&pbi_source=linkShare)**
 
 ### 📈 Global Performance Benchmarks (FY 2025)
 * **Gross Sales Volume:** $443.55M Target vs. **$403.39M Actual** (Achieved **91.45%** of target)
