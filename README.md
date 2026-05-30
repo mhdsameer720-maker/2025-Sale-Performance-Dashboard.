@@ -10,6 +10,9 @@ This repository features an enterprise-grade, multi-page **Sales Performance Das
 * **Streamlined Temporal View:** Standard quarterly roll-ups were completely bypassed to deliver an uninterrupted, month-over-month (MoM) and day-of-week operational pacing model.
 * **Dual-Metric Governance:** Equates top-line revenue tracking with bottom-line profitability margins to monitor structural cost control across the fiscal year.
 
+### 🔗 Live Interactive Report
+👉 **[Click Here to View the Live Interactive Power BI Report](https://app.powerbi.com/links/lXMNahHJHP?ctid=9163dbbb-7a84-4087-a7ef-8835e6717f11&pbi_source=linkShare)** *(Note: If you have published your report to Power BI Service, replace the placeholder link inside the brackets with your actual 'Publish to Web' or sharing URL).*
+
 ### 📈 Global Performance Benchmarks (FY 2025)
 * **Gross Sales Volume:** $443.55M Target vs. **$403.39M Actual** (Achieved **91.45%** of target)
 * **Gross Profit Margin:** $242.17M Target vs. **$221.47M Actual** (Achieved **90.95%** of target)
@@ -62,4 +65,4 @@ The dashboard's ecosystem uses a dedicated global side-navigation panel, allowin
 ---
 
 ## 📬 Contact, Collaboration & Feedback
-This dashboard was engineered to demonstrate the balance between minimalist, professional UI design and rigorous business logic. If you would like to discuss the underlying logic, suggest visual enhancements, or review the Power BI configuration, feel free to open an issue or connect with me directly!
+This dashboard was engineered to demonstrate the balance between minimalist, professional UI design and rigorous business logic. If you would like to discuss the underlying logic, suggest visual enhancements, or test out the **[live report link](PASTE_YOUR_POWER_BI_PUBLISHED_LINK_HERE)**, feel free to open an issue or connect with me directly!
